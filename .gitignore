@@ -4,6 +4,9 @@ __pycache__/
 *$py.class
 #venv
 .recsys/
+#exp-tracking folders
+nbs/wandb
+wandb/
 #data-folder
 data/
 
