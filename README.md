@@ -17,9 +17,9 @@ Build a Recommender system using Graph Neural Networks.
 3. Install python 3.7 and above
 4. Navigate to project folder and run below commands
 
-### create virtual env and install required packages -- run the below commands but remove 
+create virtual env and install required packages -- run the below commands but remove 
 
-### you really don't need `wand`,so remove that line from file `requirements.txt`
+you really don't need `wand`,so remove that line from file `requirements.txt`
 
 python3 -m venv .venv
 
@@ -29,7 +29,7 @@ python -m pip install --upgrade pip setuptools wheel
 
 pip install -r requirements.txt
 
-# Note: To get the movie-id,user-id for the predictions for test and valid check `partial_random_tst.csv` and `partial_random_vld.csv`. Using this info we can extract the corresponding genre from `tag.csv`.
+### Note: To get the movie-id,user-id for the predictions for test and valid check `partial_random_tst.csv` and `partial_random_vld.csv`. Using this info we can extract the corresponding genre from `tag.csv`.
 
 
 
