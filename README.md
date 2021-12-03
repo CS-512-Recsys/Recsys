@@ -21,9 +21,9 @@ Build a Recommender system using Graph Neural Networks.
 
 ### you really don't need `wand`,so remove that line from file `requirements.txt`
 
-python3 -m venv venv
+python3 -m venv .venv
 
-source venv/bin/activate
+source .venv/bin/activate
 
 python -m pip install --upgrade pip setuptools wheel
 
