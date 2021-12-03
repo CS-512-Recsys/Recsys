@@ -2,6 +2,14 @@
 __pycache__/
 *.py[cod]
 *$py.class
+#venv
+.recsys/
+#exp-tracking folders
+nbs/wandb
+wandb/
+#data-folder
+data/
+data.*
 
 # C extensions
 *.so
@@ -26,6 +34,7 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+.DS_Store
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
