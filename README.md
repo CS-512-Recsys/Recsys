@@ -16,8 +16,11 @@ Build a Recommender system using Graph Neural Networks.
 2. clone the repo
 3. Install python 3.7 and above
 4. Navigate to project folder and run below commands
+
 #create virtual env and install required packages -- run the below commands but remove 
+
 # you really don't need `wand`,so remove that line from file `requirements.txt`
+
 python3 -m venv venv
 source venv/bin/activate
 python -m pip install --upgrade pip setuptools wheel
