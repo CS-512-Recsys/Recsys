@@ -32,6 +32,8 @@ pip install -r requirements.txt
 
 `To See the implementation and training details`
 
+See (basic_implementation.ipynb)[https://github.com/CS-512-Recsys/Recsys/blob/main/nbs/basic_implementation.ipynb] notebook. It contains the code and training for the Deep Learning based recommender systems. For the baseline check ()
+
 
 
 ### Note: To get the movie-id,user-id for the predictions for test and valid check `partial_random_tst.csv` and `partial_random_vld.csv`. Using this info we can extract the corresponding genre from `tag.csv`.
