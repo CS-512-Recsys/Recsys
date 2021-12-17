@@ -1,8 +1,7 @@
 # Recsys
 
-Datasets: `MovieLens`, `Netflix`.
-Build a Recommender system using Graph Neural Networks.
-
+Datasets: `MovieLens`
+Comparitive study of Recommender system .
 
 ## How to use
 
@@ -32,7 +31,9 @@ pip install -r requirements.txt
 
 `To See the implementation and training details`
 
-See (basic_implementation.ipynb)[https://github.com/CS-512-Recsys/Recsys/blob/main/nbs/basic_implementation.ipynb] notebook. It contains the code and training for the Deep Learning based recommender systems. For the baseline check ()
+See (basic_implementation.ipynb)[https://github.com/CS-512-Recsys/Recsys/blob/main/nbs/basic_implementation.ipynb] notebook. It contains the code and training for the Deep Learning based recommender systems. 
+
+For the baseline check (itemsimilarity.ipynb)[https://github.com/CS-512-Recsys/Recsys/blob/main/nbs/itemsimilarity.ipynb]
 
 
 
