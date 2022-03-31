@@ -39,6 +39,9 @@ For the baseline check (itemsimilarity.ipynb)[https://github.com/CS-512-Recsys/R
 
 ### Note: To get the movie-id,user-id for the predictions for test and valid check `partial_random_tst.csv` and `partial_random_vld.csv`. Using this info we can extract the corresponding genre from `tag.csv`.
 
+# Tutorials
+
+- Multimodal Recommender systems.
 
 
 
